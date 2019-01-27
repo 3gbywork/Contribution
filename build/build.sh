@@ -12,4 +12,4 @@ fi
 
 cp ./src/js/*.min.js $jsFolder
 cp ./src/css/*.min.css $cssFolder
-cp ./src/contribution.html ./docs
+cp ./src/contribution.html ./docs/index.html
