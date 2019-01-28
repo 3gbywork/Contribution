@@ -1,4 +1,4 @@
-# 定制 GitHub 提交计划
+# [定制 GitHub 提交计划](https://3gbywork.github.io/Contribution/)
 
 这是一个辅助你定制GitHub提交计划的小玩意儿。你可以“绘制”出你喜欢的图案，然后导出。
 
@@ -11,7 +11,7 @@
 3. 导出提交计划。选填你喜欢的文件名，默认文件名是：“contribution.ics”。
 4. 将生成的提交计划导入到PC/Mac/Linux/移动设备上。
 
-你也可以导入`src/ics/hello-world.ics`文件以快速体验。
+你也可以下载`src/ics/hello-world.ics`文件，并通过“导入iCalendar文件”导入以快速体验。
 
 ## 设备/应用支持
 
