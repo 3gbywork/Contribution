@@ -6,7 +6,7 @@
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
-      <option name="fileExtension" value="css" />
+      <option name="fileExtension" value="CSS" />
       <option name="immediateSync" value="true" />
       <option name="name" value="YUI Compressor CSS" />
       <option name="output" value="$FileNameWithoutExtension$.min.css" />
@@ -26,7 +26,7 @@
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
-      <option name="fileExtension" value="js" />
+      <option name="fileExtension" value="JavaScript" />
       <option name="immediateSync" value="true" />
       <option name="name" value="YUI Compressor JS" />
       <option name="output" value="$FileNameWithoutExtension$.min.js" />

@@ -1,17 +1,11 @@
 <component name="libraryTable">
-  <library name="Generated files" type="javaScript">
-    <properties>
-      <sourceFilesUrls>
-        <item url="file://$PROJECT_DIR$/src/js/FileSaver.min.js" />
-        <item url="file://$PROJECT_DIR$/src/js/contribution.min.js" />
-        <item url="file://$PROJECT_DIR$/src/js/ical.min.js" />
-      </sourceFilesUrls>
-    </properties>
+  <library name="Generated files">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/src/js/FileSaver.min.js" />
       <root url="file://$PROJECT_DIR$/src/js/contribution.min.js" />
       <root url="file://$PROJECT_DIR$/src/js/ical.min.js" />
     </CLASSES>
+    <JAVADOC />
     <SOURCES />
   </library>
 </component>

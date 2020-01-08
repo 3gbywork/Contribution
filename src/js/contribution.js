@@ -339,6 +339,7 @@ function main() {
     addLegend();
 
     const thisYear = new Date().getFullYear();
+    // 更新当前年份
     document.getElementById("year").innerHTML = thisYear;
     // 得到今年有多少周
     const weeksOfThisYear = weeksOfYear(thisYear, 0);
